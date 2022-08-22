@@ -15,6 +15,15 @@ Application: 1 . This application can be used in many companies , schools , coll
              4 . Banking 
              
              
-Future Scope: 1 . Implementation of automatic percentage attendance record .
-              2 . Implementation of algorithm to minimize comparison time .
+System Architectire: 
+     
+![image](https://user-images.githubusercontent.com/67307739/185957166-4371a26a-b664-4137-ac82-57437a49a486.png)
+
+
+Result : 
+
+![image](https://user-images.githubusercontent.com/67307739/185957826-b2ba2276-1057-45a0-9c47-8f4dd49715e4.png)
+
+
+![image](https://user-images.githubusercontent.com/67307739/185958251-9ee1ab22-f0b7-44bb-8f01-3d8c7411c17f.png)
 
